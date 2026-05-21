@@ -42,7 +42,7 @@ Both tasks are documented with code, datasets, and results.
 ---
 
 ## 📌 Notes
-- Report includes screenshots of model outputs and dataset visualization.  
+- Report includes model outputs and dataset visualization.  
 - Datasets are linked above for reproducibility.  
 - Code is available in the Jupyter Notebook file.  
 
