@@ -1,8 +1,6 @@
-# Yalda_MachineLearning_Internship_Month1
-Internship Month 1 projects in Machine Learning: Task 1 (Email Spam Classification) and Task 2 (Handwritten Digit Recognition using MNIST). Includes Jupyter Notebook source files, datasets, report PDF, and supporting screenshots. Prepared for Arch Technologies Internship.
 
 # Internship Projects - Machine Learning (Month 1)
-
+Internship Month 1 projects in Machine Learning: Task 1 (Email Spam Classification) and Task 2 (Handwritten Digit Recognition using MNIST). Includes Jupyter Notebook source files, datasets, report PDF, and supporting screenshots. Prepared for Arch Technologies Internship.
 ## 📌 Overview
 This repository contains my internship projects for **Arch Technologies (Month 1)**.  
 It includes two machine learning tasks implemented in Jupyter Notebook:
